@@ -1,0 +1,3 @@
+# Stock-Market-Prediction-
+
+It shows the predicted stock price and the actual stock price by using visual representations/graphs ...
